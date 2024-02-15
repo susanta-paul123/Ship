@@ -1,0 +1,749 @@
+/** Start Media Query **/
+@media only screen and (min-width:1200px) and (max-width:1440px) {
+    .sec-banner .owl-carousel .item {
+        height: 740px;
+    }    
+    body.body .h2,
+    body.body h2 {
+        font-size: 38px;
+    }
+    .counter .left-counter .circle.cirecle3,
+    .counter .left-counter .circle.cirecle1 {
+        margin-right: 0;
+    }
+    .sec-intro .col-md-4:nth-child(2)::before {
+        width: 70%;
+        left: -33%;
+    }
+    .sec-intro .col-md-4:nth-child(2)::after {
+        width: 70%;
+        right: -37%;
+    }
+    .sec-delivery-form.sec-register-form .right-side {
+        left: 0;
+    }
+    .sec-delivery-form.sec-register-form {
+        padding: 4em 0 0;
+    }
+    .sec-delivery-form.sec-register-form .pos-crical.top-crical {
+        top: -11vw;
+        right: -11vw;
+    }
+    .mrc-fw{
+        margin-right:5em;
+    }
+    .mlc-fw{
+        margin-left: 5em;
+    }
+    .prc-fw{
+        padding-right: 5em;
+    }
+    
+    
+}
+@media only screen and (min-width:1200px) and (max-width:1280px) {
+    .sec-video .right-side {
+        padding-right: 70px;
+    }
+    .sec-benefits {
+        padding: 50px 85px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .sec-partners{
+        padding:40px 0;
+    }
+    .sec-delivery-form .pos-crical.bottom-crical {
+        bottom: -20vw;
+        left: -12vw;
+    }
+    .sec-news{
+        padding: 50px 0;
+    }
+    .sec-video{
+        padding: 45px 0;
+    }
+    .sec-carriers, .sec-intro{
+        padding: 40px 0 ;
+    }
+    .sec-delivery-form-w .form-right-img{
+        width: 526px;
+    }
+    .sec-delivery-form-w .sec-register-form{
+        padding: 45px 0;
+    }
+    .sec-carriers{
+        margin-top: 0;
+    }
+    .sec-interested{
+        margin-top: 0;
+    }
+    footer {
+        padding: 65px 0 0;
+    }
+    .sec-what-intro {
+        padding: 40px 0 0px;
+    }
+    .mrc-fw{
+        margin-right: 3em;
+    }
+    .sec-delivery-form{
+        padding: 3em 0;
+    }
+    .sec-carriers .d-flex .item{
+        margin: 20px 0;
+    }
+    .prc-fw{
+        padding-right: 3em;
+    }
+    .sec-delivery-form{
+        min-height: inherit;
+    }
+    .sec-benefits{
+        padding: 50px 0;
+    }
+    .sec-banner.banner-inner {
+        height: 250px;
+    }
+    .mlc-fw{
+        margin-left: 3em;
+    }
+    .sec-banner.banner-inner .left-side {
+        width: 40%;
+    }
+    .sec-banner.banner-inner .col-lg-8 {
+        width: 60%;
+    }
+    .sec-intro.sec-intro-who .col-md-4:nth-child(2)::before {
+        width: 35%;
+        left: -18%;
+    }
+    .sec-intro.sec-intro-who .col-md-4:nth-child(2)::after {
+        width: 35%;
+        right: -18%;
+    }
+    .sec-register-who .message-box {
+        top: 15%;
+    }
+    
+    
+    .sec-intro .col-md-4:nth-child(2)::before {
+        width: 70%;
+        left: -33%;
+    }
+    .sec-intro .col-md-4:nth-child(2)::after {
+        width: 70%;
+        right: -37%;
+    }
+    .sec-delivery-form.sec-register-form .right-side {
+        left: 0;
+    }
+    .sec-delivery-form.sec-register-form {
+        padding: 4em 0 0;
+    }
+    .sec-delivery-form.sec-register-form .pos-crical.top-crical {
+        top: -11vw;
+        right: -11vw;
+    }
+    .sec-team .box .box-content {
+        padding: 15px 10px;
+    }
+    .counter .left-counter .circle {
+        width: 21vw;
+        height: 21vw;
+    }
+    .counter .left-counter .circle h4 {
+        font-size: 30px;
+    }
+    .counter .left-counter .circle h5 {
+        font-size: 18px;
+    }
+    .counter .left-counter .circle p {
+        font-size: 14px;
+    }
+    .counter .left-counter .circle.cirecle3,
+    .counter .left-counter .circle.cirecle1 {
+        margin-right: 0;
+    }
+    header.header .navbar-collapse .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+        padding: 2.2rem 0.5rem;
+    }
+    header.header .navbar-brand img {
+        width: 120px;
+    }
+    .sec-banner .owl-carousel .item .left-side h1 {
+        font-size: 40px;
+    }
+    body.body .h2,
+    body.body h2 {
+        font-size: 34px;
+    }
+    .sec-video .right-side {
+        padding-right: 65px;
+    }
+    .sec-offer .line img {
+        max-width: 79%;
+    }
+    .sec-benefits .box h3 {
+        font-size: 16px;
+    }
+    .sec-benefits {
+        // padding: 50px 80px;
+    }
+    .sec-benefits .title {
+        // width: 75%;
+    }  
+    .sec-interested h2{
+        font-size: 26px!important;
+    }
+    .sec-delivery-form{
+        background-size: 490px;
+        background-position: 110% 190px;
+    }
+      
+}
+@media only screen and (max-width:991px){
+    .sec-carriers .d-flex .item{
+        margin: 20px 0;
+    }
+    .sec-delivery-form{
+        background-image: none!important;
+
+    }
+    .sec-interested{
+        margin-top: 0;
+    }
+    
+    .p125{
+        padding: 65px 0 !important;
+    }
+    .sec-register-who .message-box {
+        position: relative;
+        top: 0;
+        margin-bottom: 15px;
+    }
+    .sec-register-who .message-box .content {
+        width: 100%;
+    }
+    .sec-register-who .form-right .form-content {
+        width: 100%;
+        padding: 30px 20px;
+    }
+    .sec-register-who .form-right {padding-right: 0;}
+    
+    
+    .sec-casestudy .item a h3,
+    .sec-news .item a h3,
+    .sec-media-details h3 {
+        font-size: 16px;
+    }
+    .sec-delivery-form.sec-register-form .row-content {
+        flex-direction: column-reverse;
+    }
+    .sec-delivery-form.sec-register-form .left-side h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .sec-delivery-form.sec-register-form .form-content {
+        width: 100%;
+    }
+    .counter .left-counter .circle.cirecle3,
+    .counter .left-counter .circle.cirecle1 {
+        margin-right: 0;
+    }
+    body.body .btn {
+        padding: 8px 15px;
+    }
+    header.header {
+        padding: 15px 0;
+    }
+    header.header .navbar-toggler {
+        background: #fff;
+        color: $main-color;
+        &:focus {box-shadow: none;}
+    }
+    header.header .navbar-brand img { 
+        width: 145px;
+    }
+    header.header .navbar-collapse .navbar-nav .nav-item .nav-link {
+        padding: 15px 0;
+    }
+    .sec-benefits::before,
+    .sec-video::before {
+        display: none;
+    }
+    .sec-interested h2 {
+        width: 100%;
+    }
+
+    .sec-team{
+        padding: 40px 0 0;
+    }
+    .sec-video {
+        padding: 40px 0 125px;
+    }
+    .sec-news, .sec-casestudy, .sec-delivered, .sec-intro{
+        padding: 40px 0;
+    }
+    .sec-delivery-form{
+        min-height: inherit;
+    }
+    .sec-carriers {
+        padding: 180px 0 0px;
+    }
+    .row.sec-benefits{
+        padding-bottom: 15px;
+    }
+    .sec-delivery-form-w .form-right-img{
+        position: static;
+    }
+    .sec-delivery-form-w .sec-register-form::before{
+        display: none;
+    }
+    .sec-delivery-form-w .form-right-img{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .cost-modal .modal-dialog {
+        max-width: 700px;
+    }
+    .sec-partners.sec-what-partners {
+        padding: 50px 0;
+    }
+    .sec-intro.sec-intro-who .col-md-4:nth-child(2)::before {
+        width: 25%;
+        left: -13%;    
+    }
+    .sec-intro.sec-intro-who .col-md-4:nth-child(2)::after {
+        width: 25%;
+        right: -13%;
+    }
+
+    .sec-casestudy .row {
+        justify-content: center;
+    }
+    .sec-delivered .img-content.text-center {
+        padding-top: 25px;
+    }
+    
+    .sec-services .row {
+        justify-content: center;
+    }
+    .sec-banner.banner-inner .col-lg-4  {
+        width: 34%;
+    }
+    .sec-banner.banner-inner .col-lg-8  {
+        width: 66%;
+    }
+    .sec-partners::before {
+        height: 60px;
+    }
+    .sec-intro .col-md-4:nth-child(2)::before {
+        width: 59%;
+        left: -28%;
+    }
+    .sec-intro .col-md-4:nth-child(2)::after {
+        width: 59%;
+        right: -30%;
+    }
+    .sec-delivery-form.sec-register-form .right-side {
+        left: 0;
+    }
+    .sec-delivery-form.sec-register-form {
+        padding: 4em 0 0;
+    }
+    .sec-delivery-form.sec-register-form .pos-crical.top-crical {
+        top: -11vw;
+        right: -11vw;
+    }
+
+    .sec-banner.banner-inner {
+        height: 250px;
+    }
+    .sec-team .box .box-content {
+        padding: 15px 10px;
+    }
+    .counter .left-counter .circle {
+        width: 21vw;
+        height: 21vw;
+        padding: 0 10px;
+    }
+    .counter .left-counter .circle h4 {
+        font-size: 26px;
+    }
+    .counter .left-counter .circle h5 {
+        font-size: 15px;
+    }
+    .counter .left-counter .circle p {
+        font-size: 12px;
+    }
+    .counter .left-counter .circle.cirecle3,
+    .counter .left-counter .circle.cirecle1 {
+        margin-right: 0;
+    }
+
+    .sec-banner .owl-carousel .item .left-side h1 {
+        font-size: 33px;
+    }
+    body.body .h2,
+    body.body h2 {
+        font-size: 30px;
+    }
+    .sec-offer .line img {
+        max-width: 79%;
+    }
+    .sec-benefits .box h3 {
+        font-size: 16px;
+    }
+    .sec-benefits .title {
+        // width: 85%;
+    }   
+    .sec-banner .owl-carousel .item {
+        min-height: 50vw;
+        height: auto;
+        position: relative;
+        background-color: #FAFAFA;
+        overflow: hidden;
+        padding: 50px 0;
+    } 
+    .sec-banner .owl-carousel .item .left-side .links .btn {
+        margin: 0 10px;
+        padding: 8px 25px;
+        min-width: auto;
+    }
+    .sec-offer .box p {
+        font-size: 14px;
+    }
+    .sec-delivery-form {
+        padding: 0em 0 5em;
+    } 
+    
+    .sec-delivery-form .image-content {
+        text-align: center;
+        margin-top: 45px;
+        img {
+            width: 60%;
+        }
+    }
+    .mlc-fw{
+        margin-left: 0;
+    }
+    .prc-fw{
+        padding-right: 0;
+    }
+    .p-c-list li{
+        width: 25px;
+        flex:0 0 25%;
+    }
+
+    .bottom-crical{
+        width: 360px;
+    }
+    .bottom-crical img{
+        width: 100%;
+    }
+    .sec-interested .pos-absolute {
+        top: -110px;
+    }
+   
+    
+}
+
+@media only screen and (max-width:767px){
+    .sec-carriers .d-flex .item{
+        width: 33.333%;
+
+    }
+    .sec-carriers {
+        padding: 130px 0 25px;
+    }
+    header.header{
+        padding: 10px 0;
+    }
+    header.header .navbar-brand img{
+        width: 65px;
+    }
+    .sec-banner.banner-title::before {
+        height: 25px;
+    }
+    .sec-banner.banner-title {
+        padding-top: 60px;
+        text-align: center;
+    }
+    
+    
+    header.header nav.navbar.navbar-expand-lg {
+        padding: 0 15px;
+    }
+    .sec-banner .owl-carousel .item .right-side {
+        display: none;
+    }
+    .sec-banner .owl-carousel .item .left-side h1 {
+        font-size: 30px;
+    }
+    body.body .h2,
+    body.body h2 {
+        font-size: 28px;
+    }
+    .sec-offer .line img {
+        max-width: 79%;
+    }
+    .sec-benefits .box h3 {
+        font-size: 16px;
+    }
+    .sec-benefits .title {
+        // width: 85%;
+    }   
+    .sec-banner .owl-carousel .item {
+        min-height: 50vw;
+        height: auto;
+        position: relative;
+        background-color: #FAFAFA;
+        overflow: hidden;
+        padding: 50px 0;
+    } 
+    .sec-banner .owl-carousel .item .left-side .links .btn {
+        margin: 0 10px;
+        padding: 8px 25px;
+    }
+    .sec-offer .box p {
+        font-size: 14px;
+    }
+    .sec-delivery-form {
+        padding: 1em 0;
+    } 
+    
+    .sec-delivery-form .image-content {
+        text-align: center;
+        margin-top: 45px;
+        img {
+            width: 60%;
+        }
+    }
+    .sec-logo-box {
+        margin: -70px 0 50px;
+    }
+    .sec-video .right-side h2 {
+        margin: 30px 0 15px;
+    }
+    .sec-offer .line {
+        text-align: center;
+        display: none;
+    }
+    .sec-offer .box.center-box {
+        margin: 30px 0;
+    }
+    .sec-interested .links a {
+        max-width: 400px;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .sec-interested {
+        padding: 50px 0;
+    }
+    
+    
+    footer .footer-bottom {
+        margin-top: 20px;
+    }
+
+    .sec-banner.banner-inner {
+        height: 200px;
+    }
+    .sec-banner.banner-inner .left-side {
+        padding-top: 35px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .sec-team .box .box-content h4 {
+        font-size: 14px;
+        margin: 0 0 5px;
+    }
+    .sec-team .box .box-content h3 {
+        font-size: 16px;
+    }
+    .sec-team .box .box-content p {
+        font-size: 13px;
+    }
+    .sec-team .box .box-content {
+        padding: 15px 10px;
+    }
+    .counter .left-counter .circle {
+        width: 45vw;
+        height: 45vw;
+        padding: 0 10px;
+    }
+    .counter .left-counter .circle h4 {
+        font-size: 26px;
+    }
+    .counter .left-counter .circle h5 {
+        font-size: 15px;
+    }
+    .counter .left-counter .circle p {
+        font-size: 12px;
+    }
+    .counter .left-counter .circle.cirecle3,
+    .counter .left-counter .circle.cirecle1 {
+        margin-right: 0;
+    }
+    section.section.sec-video.sec-story .right-side h2 {
+        margin: 0 0 15px;
+    }
+    section.section.sec-video.sec-story .right-side {
+        margin: 0 0 25px;
+    }
+    .row.counter {
+        flex-direction: column-reverse;
+    }
+    .counter .left-counter {
+        margin-top: 45px;
+    }
+    .counter .left-counter .circle.cirecle2 {
+        top: 24vw;
+    }
+
+    .sec-partners::before {
+        height: 60px;
+    }
+    .sec-intro .col-md-4:nth-child(2)::after,
+    .sec-intro .col-md-4:nth-child(2)::before {
+        display: none;
+    }
+    .sec-delivery-form.sec-register-form .right-side {
+        left: 0;
+    }
+    .sec-delivery-form.sec-register-form {
+        padding: 4em 0 0;
+    }
+    .sec-delivery-form.sec-register-form .pos-crical.top-crical {
+        top: -11vw;
+        right: -11vw;
+    }
+    .sec-testimonials .owl-carousel .owl-dots button.owl-dot {
+        width: 20px;
+    }
+    .sec-partners .partners-slider .owl-carousel .owl-nav button.owl-prev {
+        left: 0;
+    }
+    .sec-partners .partners-slider .owl-carousel .owl-nav button.owl-next {
+        right: 0;
+    }
+    .sec-testimonials {
+        padding: 50px 0;
+    }
+    .sec-what-intro .row {
+        flex-direction: column-reverse;
+    }
+    .sec-what-carrier img {
+        // max-width: 200px;
+    }
+    .sec-services .box h3 {
+        font-size: 18px;
+        margin: 15px 0;
+        font-family: 'Poppins-Bold';
+    }
+    .sec-services .box .icon {
+        width: 120px;
+        height: 120px;
+        font-size: 40px;
+        margin:0 auto 15px;
+    }
+    .sec-partners.sec-what-partners {
+        padding: 50px 0;
+    }
+    .sec-delivered .slider .owl-carousel .item h3 {font-size: 18px;}
+    .sec-news .owl-carousel .owl-nav button.owl-next {
+        right: 0;
+    }
+    .sec-news .owl-carousel .owl-nav button.owl-prev {
+        left: 0;
+    }
+    .sec-news .item .content h3,
+    .sec-casestudy .item a h3 {
+        font-size: 18px;
+    }
+    .sec-media-details .media-name-box .h2 {
+        font-size: 24px;
+    }
+    .sec-media-details {
+        ul {
+            li:last-child {
+                .row {
+                    flex-direction: column-reverse;
+                }
+            }
+        }
+    }
+    .sec-related {
+        padding-bottom: 0;
+    }
+    .sec-register-who .message-box {
+        padding: 2em;
+    }
+    .sec-register-who .form-right .form-content h4 {
+        font-size: 24px;
+    }
+    .sec-register-who .message-box .content h3 {font-size: 20px;}
+
+    .cost-modal .modal-body .right-side {
+        margin-top: 30px;
+    }    
+    .registerto-modal .modal-body {
+        padding: 30px 15px;
+    }
+    .registerto-modal .modal-body .content {
+        width: 100%;
+    }
+    
+    .sec-services .box{
+        text-align: center;
+    }
+    .mlc-fw{margin-left: 0;}
+    .prc-fw{
+        padding-right: 0;
+    }
+    .p-c-list li{
+        width: 50%;
+        flex:0 0 50%;
+    }
+    .pl-list li{
+        flex:0 0 33.33%;
+        width: 33.33%;
+    }
+    .p125 {
+        padding: 20px 0 !important;
+    }
+    .sec-video{
+        padding: 25px 0;
+    }
+    .sec-team{
+        padding: 16px 0 0;
+    }
+    .sec-news, .sec-casestudy{
+        padding: 16px 0;
+    }
+    .sec-what-intro, .sec-tech, .sec-delivered, .sec-intro {
+        padding: 30px 0 30px;
+    }
+    .sec-what-carrier{
+        padding: 1em 0;
+    }
+    
+    .sec-intro .title{
+        margin: 0;
+        width: 100%;
+    }
+    
+    .sec-delivery-form{
+        min-height: inherit;
+    }
+    footer {
+      padding: 45px 0 0;
+    }
+    .counter{
+        padding: 0;
+    }
+}

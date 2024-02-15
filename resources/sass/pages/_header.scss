@@ -1,0 +1,54 @@
+ /** Start Header **/
+ header.header {
+   width: 100%;
+   background-color: #233B4B;
+   padding: 0;
+   transition: .5s ease-in-out;
+   z-index: 6;
+   width: 100%;
+   nav.navbar.navbar-expand-lg {
+        padding: 0;
+  }
+  .navbar-brand {
+    img {
+      width: 100px;
+    }
+  }
+  .navbar-collapse {
+    justify-content: center;
+    .navbar-nav {
+      .nav-item {
+        .nav-link {
+          color: #fff;
+          font-family: 'Poppins-Medium';
+          padding: 2.2rem 0.8rem;
+          position: relative;
+          &.active,
+          &:hover {
+            color: $main-color;
+          }
+          &::before {
+            content: "";
+            width: 0%;
+            height: 5px;
+            background-color: transparent;
+            position: absolute;
+            left: 0;
+            bottom: 0px;
+            -webkit-transition: ease all 0.5s;
+            transition: ease all 0.5s;
+            left: 50%;
+            -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+          }        
+          &.active {
+            &::before {
+              width: 100%;
+              background-color: $main-color;
+            }
+          }
+        }
+      }
+    }
+  }
+ }
